@@ -144,7 +144,7 @@ p{
 /* Showcase */
 
 #showcase {
-    background: url("../images/showcase.jpg") no-repeat center center/cover;
+    background: url("https://github.com/Ujjwal-rdj/hotel-website/blob/dcfac144804e081164d8b81b924641f0975873d7/css/showcase.jpg") no-repeat center center/cover;
     height: 600px;
 }
 
@@ -175,7 +175,7 @@ p{
 #home-info .info-img {
     float:left;
     width: 50%;
-    background: url("images/photo-1.jpg") no-repeat;
+    background: url("photo-1.jpg") no-repeat;
     min-height: 100%;
 }
 
@@ -288,7 +288,7 @@ p{
 
 #testimonials {
     height: 600px;
-    background: url("images/test-bg.jpg") no-repeat center center/cover ;
+    background: url("css/test-bg.jpg") no-repeat center center/cover ;
     padding-top: 100px;
 }
 
